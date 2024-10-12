@@ -12,7 +12,7 @@ This is a simple calendar day tracker app built with React Native. The app displ
 
 You can download the latest release of the Calendar Day Tracker App 
 
-- **[Download for Android (APK)](https://your-link-to-apk.com)**  
+- **[Download for Android (APK)](https://expo.dev/accounts/roycua/projects/calendarpicker/builds/13420f7f-4014-4552-bcf2-aceabd47b08f)**  
   
 ## Screenshot
 
