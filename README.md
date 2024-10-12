@@ -11,7 +11,8 @@ This is a simple calendar day tracker app built with React Native. The app displ
 
 ## Screenshot
 
-![Screenshot](./assets/screenshot.png)
+<img src="sample.jfif" width="200" height="auto" />
+
 
 
 ## Author
