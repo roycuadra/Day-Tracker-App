@@ -1,4 +1,4 @@
-# Calendar Day Tracker App
+# Calendar Day Tracker App 📅
 
 This is a simple calendar day tracker app built with React Native. The app displays a calendar with 31 days and allows users to toggle each day's status (checked or unchecked). The checked days are stored locally using `AsyncStorage` so that the state persists across app restarts.
 
